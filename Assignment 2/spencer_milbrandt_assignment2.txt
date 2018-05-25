@@ -1,0 +1,11 @@
+Python 2.7.2 (default, Jul 20 2011, 02:32:18)
+[GCC 4.2.1 (LLVM, Emscripten 1.5, Empythoned)] on linux2
+ >>>  ()
+()
+()
+Enter a number:   10
+ Enter a second number:   5
+ 10 + 5 = 15
+10 - 5 = 5
+10 * 5 = 50
+10 / 5 = 2
